@@ -3,9 +3,13 @@
     <section>
         <div class="sidebar-header">
             <span class="sidebar-header-title">
-                关于博主
+                Code Poetry
             </span>
         </div>
+        <p>
+        <img style="width: 60%;display: block;border-radius: 5px;" src="http://127.0.0.1:8099/usr/uploads/1.jpg">
+        </p>
+        <p>一杯咖啡，一台电脑，一盏夜灯<br>写一段美妙的代码，同大雨合着拍子</p>
         <ul class="list-inline">
             <?php if ($this->options->socialQQ): ?>
             <li>
@@ -37,7 +41,7 @@
     <section>
         <div class="sidebar-header">
             <span class="sidebar-header-title">
-                分类列表
+                TOPICS
             </span>
         </div>
         <div class="sidebar-list">
@@ -50,7 +54,7 @@
     <section>
         <div class="sidebar-header">
             <span class="sidebar-header-title">
-                标签列表
+                TAGS
             </span>
         </div>
         <div class="tags">
@@ -63,7 +67,7 @@
     <section>
         <div class="sidebar-header">
             <span class="sidebar-header-title">
-                归档列表
+                ARCHIVES
             </span>
         </div>
         <div class="sidebar-list">
