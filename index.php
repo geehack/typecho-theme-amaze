@@ -1,11 +1,11 @@
 <?php
 /**
- * 这是基于AmazeUI&Jeklly theme的主题
+ * 这是基于AmazeUI&Jeklly theme的主题, forked from https://github.com/spiritree/amaze
  * 
- * @package Amaze Theme
- * @author Spiritree
- * @version 2.0.0
- * @link spiritree.me
+ * @package Geehack Theme
+ * @author bitman
+ * @version 1.0.0
+ * @link geehack.com
  */
 
 

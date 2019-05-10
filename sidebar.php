@@ -7,7 +7,7 @@
             </span>
         </div>
         <p>
-        <img style="width: 60%;display: block;border-radius: 5px;" src="http://127.0.0.1:8099/usr/uploads/1.jpg">
+        <img style="width: 60%;display: block;border-radius: 5px;" src="<?php $this->options->avatarUrl(); ?>">
         </p>
         <p>一杯咖啡，一台电脑，一盏夜灯<br>写一段美妙的代码，同大雨合着拍子</p>
         <ul class="list-inline">
