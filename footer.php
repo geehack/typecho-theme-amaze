@@ -2,7 +2,8 @@
 
 <footer class="blog-footer">
     <div class="blog-text-center">© <?php echo date('Y'); ?>
-        <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title() ?></a>
+        <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title() ?></a> &nbsp;&nbsp;
+        <a href="http://www.beian.miit.gov.cn">渝ICP备06000804号-5</a>
     </div>
 </footer>
 <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"></script>
